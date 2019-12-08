@@ -5,5 +5,4 @@ def add(a,b):
 
 def jian(a,b):
 	print(a-b)
-
-	print('45345');
+	print('45345223');
